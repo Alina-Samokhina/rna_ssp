@@ -4,14 +4,7 @@ Project for Bioinformatics course at MIPT
 
 ---
 ## Data
-
-[Database RNA STRAND](http://www.rnasoft.ca/strand/)
-
-[Database RNA STRAND help page](http://www.rnasoft.ca/strand/help.php)
-
-M. Andronescu, V. Bereg, H. H. Hoos, and A. Condon. RNA STRAND: The RNA Secondary Structure And Statistical Analysis Database. BMC Bioinformatics. 2008;9(1):340.
-
------
+[bpRNA database](http://bprna.cgrb.oregonstate.edu/about.php)
 
 ## Format convertation
 [RNAstrusture software](http://rna.urmc.rochester.edu/RNAstructure.html)

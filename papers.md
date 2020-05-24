@@ -3,26 +3,39 @@
  ## 2020
  - [DL in SSP](https://www.degruyter.com/view/journals/cmb/8/1/article-p36.xml)
     Has bidirectional LSTMs, 2020
+    Willmots2020
 
-  - [BiORSEO: a bi-objective method to predict RNA secondary structures with pseudoknots using RNA 3D modules.](https://sci-hub.im/10.1093/bioinformatics/btz962)  (!)
+  - [BiORSEO: a bi-objective method to predict RNA secondary structures with pseudoknots using RNA 3D modules.](https://sci-hub.im/10.1093/bioinformatics/btz962) 
+  3d->2d don't care for now
  ## 2019
     
- - [Benchmark RSSP](https://sci-hub.im/10.1016/j.ymeth.2019.04.003) (!)
+ - [Benchmark RSSP](https://sci-hub.im/10.1016/j.ymeth.2019.04.003) 
+ mathews2019
 
  - [Transfer learning](https://sci-hub.im/10.1038/s41467-019-13395-9)
+Singh2019
 
+ Has good [bpRNA BD](http://bprna.cgrb.oregonstate.edu/download.php#bpRNA-1m(90))
+ with 100k RNAs
+ Good model, loses some pairs. to regularize with max paired?
  - [CNNs and Matrix decoding](https://sci-hub.im/10.3389/fgene.2019.00467)
-
+Zhang2019
  - [MAximization of pairs + some DL](https://sci-hub.im/10.3389/fgene.2019.00143) (!)
-
+ Wang2019
  - [Predicting RNA secondary structure via adaptive deep recurrent neural networks with energy-based filter.](https://sci-hub.im/10.1186/s12859-019-3258-7) (!)
 
  - [Methods review](https://sci-hub.im/10.1109/IBIGDELFT.2018.8625347) (!)
 
   - [WIth pseudoknots!](https://sci-hub.im/10.1186/s12864-019-6300-2) (!)
+  Kai2019
    - [RNAknot: A new algorithm for RNA secondary structure prediction based on genetic algorithm and GRASP method.](https://sci-hub.im/10.1142/s0219720019500318)
+   elfatmi2019
+
+
    - [RNAdemocracy: an ensemble method for RNA secondary structure prediction using consensus scoring](https://sci-hub.im/10.1016/j.compbiolchem.2019.107151)
+   Skidmore2019
    - [Prediction of the RNA Secondary Structure Using a Multi-Population Assisted Quantum Genetic Algorithm.](https://sci-hub.im/10.1159/000501480)
+   Shing2019
    - [RNA Secondary Structure Prediction with Pseudoknots using Chemical Reaction Optimization Algorithm.](https://sci-hub.im/10.1109/TCBB.2019.2936570)
 
    ## 2018
